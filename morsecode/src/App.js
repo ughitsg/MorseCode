@@ -19,7 +19,7 @@ function App() {
         >
           Lox
         </a>
-        {MorseCode1}
+        <MorseCode1/>
       </header>
     </div>
   );
